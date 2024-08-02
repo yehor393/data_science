@@ -1,10 +1,20 @@
-# Data Science Projects
+## Skills and Knowledge Acquired
 
-This repository contains various data science projects and exercises. Below is an overview of the directory structure and the contents of each file.
+I have completed a comprehensive data science course that covered a wide range of topics and equipped me with the following skills and knowledge:
+
+- **Exploratory Data Analysis (EDA) and Statistics**: Proficient in exploring and visualizing data to uncover patterns and insights using tools like Pandas, Matplotlib, and Seaborn. Strong understanding of basic statistical concepts.
+- **Classical Machine Learning**: Skilled in implementing fundamental machine learning algorithms such as linear regression, logistic regression, k-nearest neighbors, decision trees, and support vector machines using scikit-learn.
+- **Model Evaluation**: Experienced in building and evaluating classification models, with a solid grasp of evaluation metrics like accuracy, precision, recall, F1 score, and ROC-AUC. Proficient in cross-validation and hyperparameter tuning.
+- **Advanced Supervised Learning Algorithms**: Knowledgeable in advanced algorithms including ensemble methods (random forests, gradient boosting) and neural networks.
+- **Unsupervised Learning**: Capable of applying unsupervised learning techniques such as clustering (k-means, hierarchical clustering) and dimensionality reduction (PCA, t-SNE).
+- **Recommender Systems**: Experienced in building recommendation systems to suggest relevant items to users.
+- **Neural Networks**: Proficient in constructing and training neural networks for various applications, including image processing with Convolutional Neural Networks (CNNs) and sequence modeling with Recurrent Neural Networks (RNNs).
+- **Natural Language Processing (NLP)**: Well-versed in NLP techniques and state-of-the-art neural networks for text analysis and processing.
 
 ## Directory Structure
 
-DATA_SCIENCE/
+```plaintext
+data_science/
 │
 ├── 1_Linear_Algebra.ipynb
 ├── 2-1_IntroPandas.ipynb
@@ -21,6 +31,7 @@ DATA_SCIENCE/
 ├── 11_RNNs.ipynb
 ├── 12_NLP.ipynb
 └── README.md
+```
 
 ## Notebooks Overview
 
@@ -69,33 +80,22 @@ DATA_SCIENCE/
 ## How to Use This Repository
 
 1. Clone the repository:
-   ```bash
-   git clone https://your-repository-url.git
+   ```sh
+   git clone https://github.com/yehor393/data_science.git
     ```
 
-2. Navigate to the `DATA_SCIENCE` directory:
+2. Navigate to the `data_science` directory:
 
-   ```bash
-   cd DATA_SCIENCE
+   ```sh
+   cd data_science
    ```
 3. Open the Jupyter notebooks using Jupyter Lab or Jupyter Notebook:
 
-   ```bash
+   ```sh
    jupyter lab
    ```
 
    or
-   ```bash
+   ```sh
    jupyter notebook
    ```
-
-## Requirements
-
-- Python 3.x
-- Jupyter Lab or Jupyter Notebook
-- Pandas
-- scikit-learn
-- TensorFlow
-- Keras
-- Matplotlib
-- Seaborn
